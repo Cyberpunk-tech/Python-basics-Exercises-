@@ -1,0 +1,23 @@
+1. Create a variable name that contains the value "Alan Turing".
+name = "Alan Touring"
+print (name)
+     
+2. Create a variable age that contains the value 42.
+name = "Alan Touring"
+age = 42
+print (name, age)
+     
+3. Create a variable person that contains a list with the following values: name, age and "mathematician"
+person = ["name", "age", "mathematician"]
+
+4. Create a variable text that contains "Hello, my name is Alan Turing, I am 42 years old and I am a mathematician." Use the format() method and the variable person to do this.
+name = "Alan Touring"
+age = 42
+profession ="Mathematician"
+text = "Hello, my name is {}, i am {} years old and i am a {}".format(name, age, profession)
+print (text)
+     
+5. Create a variable age_type that contains the type of the age variable.
+age = 32
+age_type = type(age)
+
